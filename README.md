@@ -1,4 +1,4 @@
-# Genotypes-Prediction
+# Phenotypes-Prediction
 
 GOAL : To Analyse the predictability of genotypes on phenotypes.
 
